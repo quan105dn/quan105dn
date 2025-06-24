@@ -32,7 +32,5 @@
 <h3 align="left">🔭 GitHub Highlights:</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=quan105dn&show_icons=true&locale=en&theme=material-palenight" alt="quan105dn" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=quan105dn&theme=material-palenight" alt="quan105dn" /></p>
-
 <h3 align="left">🏆 Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quan105dn&theme=gruvbox" alt="quan105dn" /></a> </p>
