@@ -28,9 +28,3 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">🔭 GitHub Highlights:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=quan105dn&show_icons=true&locale=en&theme=material-palenight" alt="quan105dn" /></p>
-
-<h3 align="left">🏆 Trophies:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quan105dn&theme=gruvbox" alt="quan105dn" /></a> </p>
