@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Quan%20Nguyen&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Software%20Engineer%20%7C%20Vietnam%20🇻🇳&descAlignY=60&descSize=18&descColor=8b949e" />
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=👋+Hi+there%2C+I'm+Quan+Nguyen!;📱+Passionate+Mobile+Engineer;☕+Java+%7C+Kotlin+%7C+Dart+%7C+Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=👋+Hi+there%2C+I'm+Quan+Nguyen!;📱+Passionate+Mobile+Engineer;☕+Java+%7C+Kotlin+%7C+Dart+%7C+Flutter)](https://git.io/typing-svg)
 
 <!-- Social badges -->
 <p>
@@ -95,10 +95,8 @@ data class Developer(
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=quan105dn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=quan105dn&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quan105dn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quan105dn&theme=tokyonight&utcOffset=7" alt="Productive Time"/>
 
 </div>
@@ -120,22 +118,6 @@ data class Developer(
 <div align="center">
 
 [![Quan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=quan105dn&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quan105dn/quan105dn/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quan105dn/quan105dn/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/quan105dn/quan105dn/output/github-contribution-grid-snake.svg" />
-</picture>
-
-> 💡 **Note:** Để bật hiệu ứng con rắn này, bạn cần tạo GitHub Action workflow — xem hướng dẫn [tại đây](https://github.com/Platane/snk).
 
 </div>
 
