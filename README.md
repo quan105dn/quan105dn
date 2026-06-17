@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated header wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Quan%20Nguyen&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Software%20Engineer%20%7C%20Vietnam%20🇻🇳&descAlignY=60&descSize=18&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FEF0DC,50:FDDBB4,100:F5C38A&height=200&section=header&text=Quan%20Nguyen&fontSize=60&fontColor=E8490F&animation=fadeIn&fontAlignY=38&desc=Mobile%20Software%20Engineer%20%7C%20Vietnam%20🇻🇳&descAlignY=60&descSize=18&descColor=5C3D1E" />
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=👋+Hi+there%2C+I'm+Quan+Nguyen!;📱+Passionate+Mobile+Engineer;☕+Java+%7C+Kotlin+%7C+Dart+%7C+Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=E8490F&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=👋+Hi+there%2C+I'm+Quan+Nguyen!;📱+Passionate+Mobile+Engineer;☕+Java+%7C+Kotlin+%7C+Dart+%7C+Flutter)](https://git.io/typing-svg)
 
 <!-- Social badges -->
 <p>
@@ -104,7 +104,7 @@ data class Developer(
 <div align="center">
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C38A,50:FDDBB4,100:FEF0DC&height=120&section=footer&animation=fadeIn"/>
 
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
