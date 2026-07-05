@@ -47,11 +47,11 @@ data class Developer(
 )
 ```
 
-- 🔭 Hiện đang làm việc với **Java, Kotlin (Android)** và **Dart (Flutter)**
-- 🏢 Làm tại **Monstar Lab**, Đà Nẵng
-- 🌱 Luôn học hỏi các pattern mới trong **Mobile Development**
-- ⚡ Fun fact: **mọi account ID của tôi đều là `quan105dn`**
-- 📫 Liên hệ: **quan105dn@gmail.com**
+* 🔭 Currently working with **Java, Kotlin (Android)** and **Dart (Flutter)**
+* 🏢 Working at **Monstar Lab**, Da Nang
+* 🌱 Always learning new patterns in **Mobile Development**
+* ⚡ Fun fact: **all of my account IDs are `quan105dn`**
+* 📫 Contact: **[quan105dn@gmail.com](mailto:quan105dn@gmail.com)**
 
 ---
 
