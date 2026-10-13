@@ -42,7 +42,7 @@ data class Developer(
     val location: String = "Danang, Vietnam 🌊",
     val company: String  = "Monstar Lab",
     val email: String    = "quan105dn@gmail.com",
-    val focus: List<String> = listOf("Android", "Flutter", "Mobile Apps"),
+    val focus: List<String> = listOf("Agentic Engineer", "Android", "Flutter", "Mobile Apps"),
     val funFact: String  = "All my account IDs are quan105dn 🔥"
 )
 ```
