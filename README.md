@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated header wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FEF0DC,50:FDDBB4,100:F5C38A&height=200&section=header&text=Quan%20Nguyen&fontSize=60&fontColor=E8490F&animation=fadeIn&fontAlignY=38&desc=Mobile%20Software%20Engineer%20%7C%20Vietnam%20🇻🇳&descAlignY=60&descSize=18&descColor=5C3D1E" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FEF0DC,50:FDDBB4,100:F5C38A&height=200&section=header&text=Quan%20Nguyen&fontSize=60&fontColor=E8490F&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26amp%3B%20Agentic%20Engineer%20%7C%20Vietnam%20🇻🇳&descAlignY=60&descSize=18&descColor=5C3D1E" />
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=E8490F&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=👋+Hi+there%2C+I'm+Quan+Nguyen!;📱+Passionate+Mobile+Engineer;☕+Java+%7C+Kotlin+%7C+Dart+%7C+Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=E8490F&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=👋+Hi+there%2C+I'm+Quan+Nguyen!;📱+Passionate+Mobile+Engineer;☕+Java+%7C+Kotlin+%7C+Dart+%7C+Flutter;🤖+Agentic+Engineer+%7C+Claude+Code+%7C+Codex)](https://git.io/typing-svg)
 
 <!-- Social badges -->
 <p>
@@ -43,11 +43,13 @@ data class Developer(
     val company: String  = "Monstar Lab",
     val email: String    = "quan105dn@gmail.com",
     val focus: List<String> = listOf("Agentic Engineer", "Android", "Flutter", "Mobile Apps"),
+    val aiTools: List<String> = listOf("Claude Code", "Codex"),
     val funFact: String  = "All my account IDs are quan105dn 🔥"
 )
 ```
 
 * 🔭 Currently working with **Java, Kotlin (Android)** and **Dart (Flutter)**
+* 🤖 Agentic Engineer: build AI workflows with **Claude Code** & **Codex**, including custom skills, subagents, MCP integrations
 * 🏢 Working at **Monstar Lab**, Da Nang
 * 🌱 Always learning new patterns in **Mobile Development**
 * ⚡ Fun fact: **all of my account IDs are `quan105dn`**
@@ -64,6 +66,13 @@ data class Developer(
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</p>
+
+### 🤖 AI & Agentic
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
 </p>
 
 ### 🔥 Backend & Database
